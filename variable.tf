@@ -1,3 +1,4 @@
+# Refer to these variables later in Terroform code
 variable "aws_region" {
   default = "eu-west-2"
 }
